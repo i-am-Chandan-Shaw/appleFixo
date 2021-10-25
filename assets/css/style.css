@@ -41,6 +41,9 @@ a:hover, a:active, a:focus {
 #whatsapp:hover{
 	color:#fff
 }
+#whatsapp:active{
+	color:#fff
+}
 
 p {
   padding: 0;
